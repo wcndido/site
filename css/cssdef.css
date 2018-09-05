@@ -113,3 +113,7 @@ td, th {
 tr:nth-child(even) {
     background-color: #dddddd;
 }
+body{
+    background-image: url("../imgs/n2.png");
+    background-repeat: no-repeat;
+}
