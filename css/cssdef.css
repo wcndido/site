@@ -114,6 +114,7 @@ tr:nth-child(even) {
     background-color: #dddddd;
 }
 body{
-    background-image: url("../imgs/n2.png");
+    background-image: url("../imgs/teste1.png");
     background-repeat: no-repeat;
+    background-size: 100%;
 }
