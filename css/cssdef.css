@@ -62,7 +62,7 @@ li a:hover {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 li a.active {
-    background-color: #4CAF50;
+    background-color: #336699;
     color: white;
 }
 
@@ -94,7 +94,7 @@ fieldset legend {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
  }
  .p2i2{
-    text-align: left;
+    text-align: justify;
     font-size: 25px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
  }
@@ -113,8 +113,9 @@ td, th {
 tr:nth-child(even) {
     background-color: #dddddd;
 }
-body{
-    background-image: url("../imgs/teste1.png");
+.fundo{
+    background-image: url("../imgs/n2.png");
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: 45%;
+    background-position: center;
 }
